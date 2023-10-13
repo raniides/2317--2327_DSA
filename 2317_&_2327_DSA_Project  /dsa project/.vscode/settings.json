@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "word_frequency.h": "c",
+        "stdio.h": "c"
+    }
+}
